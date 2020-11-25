@@ -1,3 +1,5 @@
+# 文本进度条
+
 import time
 scale = 50
 print('执行开始'.center(scale//2,"-"))
